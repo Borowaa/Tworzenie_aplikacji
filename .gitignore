@@ -1,0 +1,30 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Packages/PackageCache/
+
+# OS/IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.DS_Store
+Thumbs.db
+
+# Gradle/Android
+.gradle/
+*.apk
+*.aab
